@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1692138851 source:d:\tpslls\tpnuevo\pilaalumnno.c
+	"pilaAlumnno.h"
+
+1692138851 d:\tpslls\tpnuevo\pilaalumnno.h
+	<malloc.h>
+	"alumno.h"
+
+1692138863 d:\tpslls\tpnuevo\alumno.h
+
+1692138910 source:d:\tpslls\tpnuevo\alumno.c
+	"alumno.h"
+
+1692146697 source:d:\tpslls\tpnuevo\pilaalumno.c
+	"pilaAlumno.h"
+
+1692143804 d:\tpslls\tpnuevo\pilaalumno.h
+	<malloc.h>
+	"alumno.h"
+
+1692141600 source:d:\tpslls\tpnuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+	"pilaAlumno.h"
+
+1490112217 source:d:\tpslls\tpnuevo\pila.c
+	"pila.h"
+
+1490112217 d:\tpslls\tpnuevo\pila.h
+	<stdio.h>
+	<malloc.h>
+
